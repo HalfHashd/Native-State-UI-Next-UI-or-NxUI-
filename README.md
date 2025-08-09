@@ -13,7 +13,7 @@ For inquiries, contact:
 Email: 1@1000x10.com  
 dba: HalfHashd(tm)  
 
-The copyright holder is open to discussing commercial partnerships, licensing arrangements, and collaborative development opportunities related to this project. Commercial but public, government, and educational uses are welcome to inquire for free use considerations.
+The copyright holder welcomes discussing commercial partnerships, licensing arrangements, and collaborative development opportunities related to this project. Commercial but public, government, and educational uses are welcome to inquire for free use considerations.
 
 ---
 
@@ -61,14 +61,11 @@ Thank you.
 
 ## 2. License & Notices
 
-### NOTICE
-
-Certain aspects of this software and/or its underlying methods are patent pending.  
----
+### COPYRIGHT NOTICE
 
 ### MIT License + Commons Clause Restriction
-
 Copyright (c) 2025 HalfHashd (dba)
+---
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to use,
@@ -76,7 +73,7 @@ copy, modify, merge, publish, and distribute the Software for personal,
 educational, or non-commercial purposes, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+copies or substantial portions of the Software. Certain aspects of this software and/or its underlying methods are patent pending. 
 
 **Commercial Use Restriction:**  
 The "Commons Clause" License Condition v1.0 is hereby added to the MIT License:  
