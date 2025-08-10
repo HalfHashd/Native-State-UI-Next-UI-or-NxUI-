@@ -5,6 +5,23 @@ Next UI (NxUI) is a new advance in UI art using Native-State interface where the
 
 **The first AI-enabled, multi-dimensional interface that fuses analog human intuition with deterministic digital systems, replacing flat UIs with living, manipulable state-native controls.**
 
+<h2 align="center">Hero Images</h2>
+
+<p align="center">
+  <img src="assets/Fig01-main-2.png" alt="NxUI Hero 1 – Overview & Explainer" width="80%">
+  <br><em>Figure 1: NxUI Hero 1 – Overview with explainer annotations showing state manipulation and visual integration.</em>
+</p>
+
+<p align="center">
+  <img src="assets/Fig03L-TradeChart w NxUI-embd-sep.png" alt="NxUI Hero 2 – Concept Panels" width="80%">
+  <br><em>Figure 2: NxUI Hero 2 – Concept panels demonstrating bi-directional control between visual state and underlying data.</em>
+</p>
+
+<p align="center">
+  <img src="assets/Fig05- NxUI-athelets-stats.png" alt="NxUI Hero 3 – Additional Views" width="80%">
+  <br><em>Figure 3: NxUI Hero 3 – Additional UI variations highlighting adaptability to different domains.</em>
+</p>
+
 This README contains two sections: 
 1. **Project Overview** – a detailed description of NxUI and its intended use.  
 2. **License & Notices** – patent, usage restrictions, and licensing terms.
