@@ -3,7 +3,7 @@ Next UI (NxUI) is a new advance in UI art using Native-State interface where the
 
 # NxUI(tm)
 
-**The first AI-enabled, multi-dimensional interface that fuses analog human intuition with deterministic digital systems, replacing flat UIs with living, manipulable state-native controls and freeing us from stern alphanumeric taskmaster and WYGIWYS.**
+**The first AI-enabled, multi-dimensional interface that fuses analog human intuition with deterministic digital system--replacing flat UIs with living, manipulable state-native controls and freeing us from the stern alphanumeric text and writing taskmaster.**
 
 <h2 align="center">NxUI Concept Images</h2>
 
