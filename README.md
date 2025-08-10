@@ -3,23 +3,23 @@ Next UI (NxUI) is a new advance in UI art using Native-State interface where the
 
 # NxUI(tm)
 
-**The first AI-enabled, multi-dimensional interface that fuses analog human intuition with deterministic digital systems, replacing flat UIs with living, manipulable state-native controls.**
+**The first AI-enabled, multi-dimensional interface that fuses analog human intuition with deterministic digital systems, replacing flat UIs with living, manipulable state-native controls and freeing us from stern alphanumeric taskmaster and WYGIWYS.**
 
-<h2 align="center">Hero Images</h2>
+<h2 align="center">NxUI Concept Images</h2>
 
 <p align="center">
   <img src="assets/Fig01-main-2.png" alt="NxUI Hero 1 – Overview & Explainer" width="80%">
-  <br><em>Figure 1: NxUI Hero 1 – Overview with explainer annotations showing state manipulation and visual integration.</em>
+  <br><em>NxUI Image 1 – Crypto account with my assets-at-a-glance for currnet time and recent three sessions history (hour, day, week, etc.) and reference to the current gold, oil, and DYX.</em>
 </p>
 
 <p align="center">
   <img src="assets/Fig03L-TradeChart w NxUI-embd-sep.png" alt="NxUI Hero 2 – Concept Panels" width="80%">
-  <br><em>Figure 2: NxUI Hero 2 – Concept panels demonstrating bi-directional control between visual state and underlying data.</em>
+  <br><em>NxUI Image 2 – Trade chart use image at 1 hour candles with the trade-account NxUI candle and the subject trade as part of the total trade account with other assets; and another concept image for an account candle with horizontal lines representing 20 preceding sessions.</em>
 </p>
 
 <p align="center">
   <img src="assets/Fig05- NxUI-athelets-stats.png" alt="NxUI Hero 3 – Additional Views" width="80%">
-  <br><em>Figure 3: NxUI Hero 3 – Additional UI variations highlighting adaptability to different domains.</em>
+  <br><em>NxUI Image 3 – The stats from recent game. The shots on goal with left vs right foot compared to the mean, how daring (heart), stamina, guts, etc. - additional NxUI highlighting adaptability to different domains.</em>
 </p>
 
 This README contains two sections: 
