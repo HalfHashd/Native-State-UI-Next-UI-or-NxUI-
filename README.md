@@ -1,7 +1,7 @@
 # Native-State-UI. The Next-UI. 
 Next UI (NxUI) is a new advance in UI art using Native-State interface where the UI directly represents the subject object’s live state, enabling users to manipulate it naturally. This visual-first design is faster and more intuitive than text-based controls. PoConcept: tracking and adjusting crypto asset performance or active trades in real time.
 
-# NxUI(tm)
+# NxUI<sup>™</sup>
 
 **The first AI-enabled, multi-dimensional interface that fuses analog human intuition with deterministic digital system--replacing flat UIs with living, manipulable state-native controls and freeing us from the stern alphanumeric text and writing taskmaster.**
 
@@ -28,7 +28,7 @@ This README contains two sections:
 
 For inquiries, contact:  
 Email: 1@1000x10.com  
-dba: HalfHashd(tm)  
+dba: HalfHashd<sup>™</sup>
 
 The copyright holder welcomes discussing commercial partnerships, licensing arrangements, and collaborative development opportunities related to this project. Commercial but public, government, and educational uses are welcome to inquire for free use considerations.
 
