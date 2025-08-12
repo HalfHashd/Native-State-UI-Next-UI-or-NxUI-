@@ -32,8 +32,7 @@ dba: HalfHashd<sup>™</sup>
 
 The HalfHashd welcomes inquiries for partnerships, licensing arrangements, and collaborative developments. Public good, government, and educational uses are invited to inquire for free use considerations.
 
-1.1.1.	<p align="center"> <br><em> Our vision mates decentralized blockchain’s deterministic protocols with centralized AI’s probabilistic modes. We unify the decentralized with the centralized, the deterministic with the probabilistic—plus the Woo—for abundance and peace in our time.</em>
-1.1.2.	</p>
+<p align="center"> <br><em> Our vision mates decentralized blockchain’s deterministic protocols with centralized AI’s probabilistic modes. We unify the decentralized with the centralized, the deterministic with the probabilistic—plus the Woo—for abundance and peace in our time.</em></p>
 
 ---
 
