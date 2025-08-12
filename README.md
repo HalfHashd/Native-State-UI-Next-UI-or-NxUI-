@@ -9,7 +9,7 @@ Next UI (NxUI) is a new advance in UI art using Native-State interface where the
 
 <p align="center">
   <img src="assets/Fig01-main-2.png" alt="NxUI Hero 1 – Overview & Explainer" width="80%">
-  <br><em>NxUI Image 1 – Crypto account with your assets-at-a-glance for currnet time and recent three sessions history (hour, day, week, etc.) and reference to the current gold, oil, and DYX.</em>
+  <br><em>NxUI Image 1 – Crypto account with your assets at-a-glance for currnet time and recent three sessions history (hour, day, week, etc.) and reference to the current gold, oil, and DYX.</em>
 </p>
 
 <p align="center">
