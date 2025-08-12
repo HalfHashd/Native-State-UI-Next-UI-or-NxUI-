@@ -19,7 +19,7 @@ Next UI (NxUI) is a new advance in UI art using Native-State interface where the
 
 <p align="center">
   <img src="assets/Fig05- NxUI-athelets-stats.png" alt="NxUI Hero 3 – Additional Views" width="80%">
-  <br><em>NxUI Image 3 – The stats from recent game. The shots on goal with left vs right foot compared to the mean, how daring (heart), stamina, guts, etc. - additional NxUI highlighting adaptability to different domains.</em>
+  <br><em>NxUI Image 3 –  This is NxUI highlighting adaptability to different domains. The stats from recent game, the shots on goal with left vs right foot compared to the mean, how daring (heart), stamina, guts, etc.</em>
 </p>
 
 This README contains two sections: 
