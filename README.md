@@ -30,7 +30,7 @@ For inquiries, contact:
 Email: 1@1000x10.com  
 dba: HalfHashd<sup>™</sup>
 
-The copyright holder welcomes discussing commercial partnerships, licensing arrangements, and collaborative development opportunities related to this project. Commercial but public, government, and educational uses are welcome to inquire for free use considerations.
+The HalfHashd welcomes inquiries for partnerships, licensing arrangements, and collaborative developments. Public good, government, and educational uses are invited to inquire for free use considerations.
 
 ---
 
