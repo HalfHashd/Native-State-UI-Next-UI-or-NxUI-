@@ -1,5 +1,5 @@
-# Native-State-UI. The Next-UI. 
-Next UI (NxUI) is a new advance in UI art using Native-State interface where the UI directly represents the subject object’s live state, enabling users to manipulate it naturally. This visual-first design is faster and more intuitive than text-based controls. PoConcept: tracking and adjusting crypto asset performance or active trades in real time. (Shortcut: nxui.net to this github page.) 
+# Native-State-UI. The Next UI. 
+Next UI (NxUI) is a new advance in UI art using Native-State interface where the UI directly represents the subject object’s live state, enabling users to manipulate it naturally. This visual-and-touch first design is faster and more intuitive than text-based controls. Proof of Concept: tracking and adjusting active trades or stake-pools in real time, instantly reallocating or seeing states of your crypto assets. (Shortcut: nxui.net to this github page.) 
 
 # NxUI<sup>™</sup>.net
 
