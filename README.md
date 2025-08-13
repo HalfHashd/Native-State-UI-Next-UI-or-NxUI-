@@ -40,8 +40,9 @@ The HalfHashd welcomes inquiries for partnerships, licensing arrangements, and c
   AI is the Digital Soul<sup>™</sup>.<br>
   AI is the new UI<sup>™</sup>.<br>
   AI and Blockchain, a match made in heaven.<br>
-  Blockchain dematerializes centralized infrastructures.<br>
-  Blockchain deconstructs (commerce) time to the present-now.<br>
+  AI and Blockchain to abundance with peace, in our time.<br>
+  Blockchain dematerializes the centralized infrastructures.<br>
+  Blockchain deconstructs the (commerce) time to the present-now.<br>
 </p> 
 </p> <p align="center"> <em>Blockchain-crypto is complicated-complex, risky, and even dangerous to power users. Take the mountain to Mohammed.</em></p>
 </p> <p align="center"> <em>... DeFi is an oxymoron - if, you deconstruct it, then: decentralized can only be among peers, and among peers there are no debt ... thus to be Sharia Law compatible.</em></p>
