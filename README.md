@@ -34,8 +34,8 @@ The HalfHashd welcomes inquiries for partnerships, licensing arrangements, and c
 
 <p align="center"> <br><em>Our vision mates blockchain’s deterministic protocols with AI’s probabilistic modes. We unify the decentralized with the centralized, the deterministic with the probabilistic—plus the Woo—for abundance and peace in our time.</em></p>
 <p align="center"> <br><em>Our implementation focus: blockchain + AI + the Woo as the new denominator. Our formula as the new denominator, aligning trustless technology, adaptive intelligence, and human spirit into a common measure for the emerging era of abundance and peace.</em></p>
-<p align="center"> <br><em>AI is the new API<sup>™</sup>.</em></p>
-<p align="center"> <br><em>AI is the Digital Soul<sup>™</sup>.</em></p>
+<p align="center"> <br><em>AI is the new API<sup>™</sup>.</p>
+<p align="center"> <br><em>AI is the Digital Soul<sup>™</sup>.</p>
 <p align="center"> <br><em>AI is the new UI<sup>™</sup>.</em></p>
 <p align="center"> <br><em>AI and Blockchain, a match made in heaven<sup></em></p>
 <p align="center"> <br><em>Blockchain dematerializes centralized infrastructures.<sup></em></p>
