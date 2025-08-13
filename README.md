@@ -42,7 +42,7 @@ The HalfHashd welcomes inquiries for partnerships, licensing arrangements, and c
   AI and Blockchain, a match made in heaven.<br>
   Blockchain dematerializes centralized infrastructures.<br>
   Blockchain deconstructs (commerce) time, to the present now.</em>
-</p> <p align="center"> <em>... "magical money machine"(SN)-exponential age(RP)-scifi(CH)-"abundance and peace in our time"(Ch) - epoch is emerging, imagine when the GDP of the planet doubles (ALs, etc.) every year(RP)... and you will only have to work ze 10 hours a week and like it!(Sergey N., Raoul Pal, Clif High, Klaus Schwab, Ch.ung.</em></p>
+</p> <p align="center"> <em>... "magical money machine"(SN)-exponential age(RP)-scifi(CH)-"abundance and peace in our time"(Ch) - epoch is emerging, imagine when the GDP of the planet doubles (AIs, etc.) every year(RP)... and you will only have to work ze 10 hours a week and like it!(Sergey N., Raoul Pal, Clif High, Klaus Schwab, Ch.ung.</em></p>
 ---
 
 ### NxUI in the Age of Probabilistic AI
