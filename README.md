@@ -34,7 +34,13 @@ The HalfHashd welcomes inquiries for partnerships, licensing arrangements, and c
 
 <p align="center"> <br><em>Our vision mates blockchain’s deterministic protocols with AI’s probabilistic modes. We unify the decentralized with the centralized, the deterministic with the probabilistic—plus the Woo—for abundance and peace in our time.</em></p>
 <p align="center"> <br><em>Our implementation focus: blockchain + AI + the Woo as the new denominator. Our formula as the new denominator, aligning trustless technology, adaptive intelligence, and human spirit into a common measure for the emerging era of abundance and peace.</em></p>
-
+<p align="center"> <br><em>AI is the new API<sup>™</sup>.</em></p>
+<p align="center"> <br><em>AI is the Digital Soul<sup>™</sup>.</em></p>
+<p align="center"> <br><em>AI is the new UI<sup>™</sup>.</em></p>
+<p align="center"> <br><em>AI and Blockchain, a match made in heaven<sup></em></p>
+<p align="center"> <br><em>Blockchain dematerializes centralized infrastructures.<sup></em></p>
+<p align="center"> <br><em>Blockchain deconstructs (commerce) time, to the present now.<sup></em></p>
+<p align="center"> <br><em>... "magical money machine"(SN)-exponential(RP)-scifi(CH)-"abundance and peace in our time"(C) epoch is emerging, imagine when the AIs are doubling the GDP of the planet every year(RP)... and you will only have to work ze 10 hours a week and like it!(Sergey N., Raoul Pal, Clif High, Klaus Schwab, Ch.ung.</em></p>
 ---
 
 ### NxUI in the Age of Probabilistic AI
