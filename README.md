@@ -46,9 +46,11 @@ The HalfHashd welcomes inquiries for partnerships, licensing arrangements, and c
 </p> 
 </p> <p align="center"> <em>Blockchain-crypto is complicated-complex, risky, and even dangerous to power users. Take the mountain to Mohammed.</em></p>
 </p> <p align="center"> <em>... DeFi is an oxymoron - if, you deconstruct it, then: decentralized can only be among peers, and among peers there are no debt ... thus to be Sharia Law compatible.</em></p>
-</p> <p align="center"> <em>The current Blockchain is masculine. There is the feminine which will "10x" the use cases, the TVL, and solve the RW - assets and tokenization.</em>
+</p> <p align="center"> <em>The current Blockchain is masculine. There is the feminine which will "10x" the use cases, the TVL, and solve the RW - assets and tokenization.</em></p>
 </p> <p align="center"> <em>... "magical money machine"(SN)-exponential age(RP)-scifi(CH)-"abundance and peace in our time"(Ch) - epoch is emerging, imagine "when the GDP of the planet doubles (AIs, etc.) every year"(RP)... and you will only have to work ze 10 hours a week and like it! (Sergey N., Raoul Pal, Clif High, Klaus "ze" Schwab, Ch.ung.)</em></p>
----
+</p> <p align="center"> <em>...once you got the base principles its just rinse-repeat all of the aboves... - Konfucius.</em></p>
+
+    ---
 
 ### NxUI in the Age of Probabilistic AI
 
